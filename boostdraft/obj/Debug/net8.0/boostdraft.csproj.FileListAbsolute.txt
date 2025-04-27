@@ -1,0 +1,15 @@
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\bin\Debug\net8.0\boostdraft.exe
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\bin\Debug\net8.0\boostdraft.deps.json
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\bin\Debug\net8.0\boostdraft.runtimeconfig.json
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\bin\Debug\net8.0\boostdraft.dll
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\bin\Debug\net8.0\boostdraft.pdb
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\obj\Debug\net8.0\boostdraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\obj\Debug\net8.0\boostdraft.AssemblyInfoInputs.cache
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\obj\Debug\net8.0\boostdraft.AssemblyInfo.cs
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\obj\Debug\net8.0\boostdraft.csproj.CoreCompileInputs.cache
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\obj\Debug\net8.0\boostdraft.sourcelink.json
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\obj\Debug\net8.0\boostdraft.dll
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\obj\Debug\net8.0\refint\boostdraft.dll
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\obj\Debug\net8.0\boostdraft.pdb
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\obj\Debug\net8.0\boostdraft.genruntimeconfig.cache
+C:\Users\user\Work\new_repo\c-sharp\boostdraft\obj\Debug\net8.0\ref\boostdraft.dll
