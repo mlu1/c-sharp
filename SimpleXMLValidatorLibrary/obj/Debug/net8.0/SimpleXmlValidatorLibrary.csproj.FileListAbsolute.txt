@@ -1,0 +1,12 @@
+C:\Users\user\Work\new_repo\c-sharp\SimpleXMLValidatorLibrary\obj\Debug\net8.0\SimpleXmlValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Work\new_repo\c-sharp\SimpleXMLValidatorLibrary\obj\Debug\net8.0\SimpleXmlValidatorLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Work\new_repo\c-sharp\SimpleXMLValidatorLibrary\obj\Debug\net8.0\SimpleXmlValidatorLibrary.AssemblyInfo.cs
+C:\Users\user\Work\new_repo\c-sharp\SimpleXMLValidatorLibrary\obj\Debug\net8.0\SimpleXmlValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Work\new_repo\c-sharp\SimpleXMLValidatorLibrary\obj\Debug\net8.0\SimpleXmlValidatorLibrary.sourcelink.json
+C:\Users\user\Work\new_repo\c-sharp\SimpleXMLValidatorLibrary\bin\Debug\net8.0\SimpleXmlValidatorLibrary.deps.json
+C:\Users\user\Work\new_repo\c-sharp\SimpleXMLValidatorLibrary\bin\Debug\net8.0\SimpleXmlValidatorLibrary.dll
+C:\Users\user\Work\new_repo\c-sharp\SimpleXMLValidatorLibrary\bin\Debug\net8.0\SimpleXmlValidatorLibrary.pdb
+C:\Users\user\Work\new_repo\c-sharp\SimpleXMLValidatorLibrary\obj\Debug\net8.0\SimpleXmlValidatorLibrary.dll
+C:\Users\user\Work\new_repo\c-sharp\SimpleXMLValidatorLibrary\obj\Debug\net8.0\refint\SimpleXmlValidatorLibrary.dll
+C:\Users\user\Work\new_repo\c-sharp\SimpleXMLValidatorLibrary\obj\Debug\net8.0\SimpleXmlValidatorLibrary.pdb
+C:\Users\user\Work\new_repo\c-sharp\SimpleXMLValidatorLibrary\obj\Debug\net8.0\ref\SimpleXmlValidatorLibrary.dll
